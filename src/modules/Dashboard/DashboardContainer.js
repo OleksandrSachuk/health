@@ -95,9 +95,7 @@ export default compose(
     },
 
     componentWillUnmount() {
-      this.temperature$.unsubscribe();
-      this.airPresure$.unsubscribe();
-      this.humidity$.unsubscribe();
+      this.summary$.unsubscribe();
     },
 
   }),

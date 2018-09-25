@@ -1,0 +1,116 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard snapshot test 1`] = `
+<table
+  className="MuiTable-root-21"
+>
+  <thead
+    className="MuiTableHead-root-22"
+  >
+    <tr
+      className="MuiTableRow-root-23 MuiTableRow-head-26"
+    >
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-28 MuiTableCell-head-29"
+        scope="col"
+      >
+        Name
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-28 MuiTableCell-head-29 Dashboard-tableCellCenter-20"
+        scope="col"
+      >
+        Value
+      </th>
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-28 MuiTableCell-head-29 Dashboard-tableCellCenter-20"
+        scope="col"
+      >
+        Description
+      </th>
+    </tr>
+  </thead>
+  <tbody
+    className="MuiTableBody-root-36"
+  >
+    <tr
+      className="MuiTableRow-root-23"
+    >
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-28 MuiTableCell-body-30"
+        scope="row"
+      >
+        Temperature
+      </th>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-28 MuiTableCell-body-30 MuiTableCell-numeric-32 Dashboard-tableCellCenter-20"
+        scope={undefined}
+      >
+        0
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-28 MuiTableCell-body-30 Dashboard-tableCellCenter-20"
+        scope={undefined}
+      >
+        °C
+      </td>
+    </tr>
+    <tr
+      className="MuiTableRow-root-23"
+    >
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-28 MuiTableCell-body-30"
+        scope="row"
+      >
+        Air pressure
+      </th>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-28 MuiTableCell-body-30 MuiTableCell-numeric-32 Dashboard-tableCellCenter-20"
+        scope={undefined}
+      >
+        0
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-28 MuiTableCell-body-30 Dashboard-tableCellCenter-20"
+        scope={undefined}
+      >
+        mmHg
+      </td>
+    </tr>
+    <tr
+      className="MuiTableRow-root-23"
+    >
+      <th
+        aria-sort={null}
+        className="MuiTableCell-root-28 MuiTableCell-body-30"
+        scope="row"
+      >
+        Humidity
+      </th>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-28 MuiTableCell-body-30 MuiTableCell-numeric-32 Dashboard-tableCellCenter-20"
+        scope={undefined}
+      >
+        0
+      </td>
+      <td
+        aria-sort={null}
+        className="MuiTableCell-root-28 MuiTableCell-body-30 Dashboard-tableCellCenter-20"
+        scope={undefined}
+      >
+        %
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
