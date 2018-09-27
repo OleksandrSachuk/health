@@ -21,5 +21,4 @@ yarn-debug.log*
 yarn-error.log*
 
 .idea/
-public/
 README.old.md
